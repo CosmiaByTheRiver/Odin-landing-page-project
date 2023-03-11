@@ -42,3 +42,7 @@ a {
 .dog-resize {
     height: 250px;
 }
+
+.hero-container {
+    display: flex;
+}
