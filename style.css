@@ -53,3 +53,9 @@ a {
 .hero-left {
     width: 26em;
 }
+
+.sign-up-button {
+    background-color: #3882F6;
+    border-radius: 4px;
+    border: solid #3882F6;
+}
