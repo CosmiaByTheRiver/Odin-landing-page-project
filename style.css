@@ -20,6 +20,12 @@ a {
     justify-content: space-around;
 }
 
+.header-links {
+    display: flex;
+    gap: 22px;
+    align-items: center;
+}
+
 .small-text {
     color: #e5e7eb;
     font-size: 18px;
