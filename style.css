@@ -11,7 +11,8 @@ a {
     text-decoration: none;
 }
 
-.logo {
+.logo,
+.hero-text {
     font-weight: 600;
 }
 
@@ -30,4 +31,9 @@ a {
 .small-text {
     color: #e5e7eb;
     font-size: 18px;
+}
+
+.hero-text {
+    font-size: 48px;
+    color: #F9FAF8;
 }
