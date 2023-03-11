@@ -61,4 +61,7 @@ a {
     color: #F9FAF8;
     width: 7.5em;
     text-align: center;
+    margin-top: 8px;
+    font-weight: 600;
+    padding: 3px;
 }
