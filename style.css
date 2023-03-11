@@ -7,6 +7,14 @@ header {
     font-size: 24px;
 }
 
+a {
+    text-decoration: none;
+}
+
+.logo {
+    font-weight: 600;
+}
+
 .header-container {
     display: flex;
     justify-content: space-around;
