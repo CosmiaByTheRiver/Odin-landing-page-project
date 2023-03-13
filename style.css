@@ -1,5 +1,6 @@
 html {
     background-color: #1f2937;
+    font-family: 'Roboto', sans-serif;
 }
 
 header {
@@ -106,4 +107,9 @@ a {
 
 .quote-container {
     background-color: #E5E7EB;
+}
+
+.quote-text {
+    font-family: 'roboto';
+    color: #1F2937;
 }
