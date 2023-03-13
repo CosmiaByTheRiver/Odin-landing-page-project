@@ -112,8 +112,8 @@ a {
 .quote-text {
     color: #1F2937;
     font-size: 36px;
+    text-align: center;
     font-style: italic;
     padding-right: 6.6em;
     padding-left: 6.6em;
-    text-align: left;
 }
