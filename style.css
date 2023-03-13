@@ -109,6 +109,10 @@ a {
     background-color: #E5E7EB;
 }
 
+.text-width {
+    width: 22em;
+}
+
 .quote-text {
     color: #1F2937;
     font-size: 36px;
