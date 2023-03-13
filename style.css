@@ -125,4 +125,6 @@ a {
     font-weight: 600;
     font-style: normal;
     font-size: 20px;
+    display: flex;
+    justify-content: flex-end;
 }
