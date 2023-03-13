@@ -65,3 +65,11 @@ a {
     font-weight: 600;
     padding: 3px;
 }
+
+.info-color {
+    background-color: white;
+}
+
+.img-border {
+    width: 160px;
+}
