@@ -89,4 +89,6 @@ a {
 .info-images {
     display: flex;
     justify-content: center;
+    gap: 3em;
+    padding-top: 45px;
 }
