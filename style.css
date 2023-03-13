@@ -117,4 +117,6 @@ a {
     color: #1F2937;
     font-size: 36px;
     font-style: italic;
+    display: flex;
+    justify-content: center;
 }
