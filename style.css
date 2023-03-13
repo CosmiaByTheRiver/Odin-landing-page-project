@@ -119,6 +119,7 @@ a {
     font-style: italic;
     display: flex;
     justify-content: center;
+    padding: 2.8em 0 2.5em 0;
 }
 
 .signature {
