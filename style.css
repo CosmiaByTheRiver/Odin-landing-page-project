@@ -141,6 +141,8 @@ a {
     background-color: #3882F6;
     color: #F9FAF8;
     width: 54em;
+    display: flex;
+    justify-content: space-around;
 }
 
 .action-title {
