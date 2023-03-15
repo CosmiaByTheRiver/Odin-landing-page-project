@@ -129,3 +129,14 @@ a {
     display: flex;
     justify-content: flex-end;
 }
+
+
+.action-container {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.action-section {
+    background-color: #3882F6;
+}
