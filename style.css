@@ -71,6 +71,7 @@ a {
 
 .sign-up-button {
     border: solid #3882F6;
+
 }
 
 .info-color {
@@ -149,7 +150,7 @@ a {
     width: 54em;
     display: flex;
     justify-content: space-around;
-    padding: 2em;
+    padding: 3em;
     border-radius: 7px;
     align-items: center;
 }
@@ -160,4 +161,6 @@ a {
 
 .action-button {
     border-style: solid;
+    font-size: 16px;
+    width: 7em;
 }
