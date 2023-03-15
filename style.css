@@ -140,6 +140,7 @@ a {
     background-color: white;
     display: flex;
     justify-content: center;
+    padding: 4em;
 }
 
 .action-box {
@@ -148,6 +149,7 @@ a {
     width: 54em;
     display: flex;
     justify-content: space-around;
+    padding: 2em;
 }
 
 .action-title {
@@ -156,4 +158,5 @@ a {
 
 .action-button {
     border-style: solid;
+
 }
