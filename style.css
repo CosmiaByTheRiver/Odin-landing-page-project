@@ -169,3 +169,8 @@ footer {
     text-align: center;
     margin: 2.5em 0 2.5em 0;
 }
+
+#clap-width {
+    height: 90px;
+    object-fit: contain;
+}
