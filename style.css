@@ -153,3 +153,7 @@ a {
 .action-title {
     font-size: 20px;
 }
+
+.action-button {
+    border-style: solid;
+}
