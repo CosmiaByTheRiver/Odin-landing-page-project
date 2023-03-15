@@ -56,16 +56,22 @@ a {
     width: 26em;
 }
 
-.sign-up-button {
+.sign-up-button,
+.action-button
+{
     background-color: #3882F6;
     border-radius: 4px;
-    border: solid #3882F6;
+
     color: #F9FAF8;
     width: 7.5em;
     text-align: center;
     margin-top: 8px;
     font-weight: 600;
     padding: 3px;
+}
+
+.sign-up-button {
+    border: solid #3882F6;
 }
 
 .info-color {
